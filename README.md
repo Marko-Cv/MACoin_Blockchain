@@ -2,7 +2,7 @@
 ## A Python based Cryptocurrency
 **Skills: Programming with Advanced Computer Languages (7,789 | 8,789)**
 
-Project Link: **xyz**
+Project Link: https://github.com/Marko-Cv/MACoin_Blockchain
 
 ## Creators
 - Marko Cvijic (18-607-903)
