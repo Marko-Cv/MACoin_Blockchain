@@ -368,9 +368,6 @@ class Blockchain:
 
         # Initialize a list to store transaction details 
         transactions_list = []
-
-        # Initialize the wallet object
-        #wallet = self.wallets[wallet_address]
         
         balance_after_transfer = self.wallets[wallet_address].balance # Set initial balance after transfer to the wallet's current balance
 
