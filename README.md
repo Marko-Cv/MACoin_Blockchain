@@ -26,7 +26,7 @@ Specifically, it includes:
 - A `MACoin.pdf` file consisting of the documentation, explaining the reasoning and details of the blockchain
 
 ## Getting Started
-The entire Blockchain can be controlled via the User Interface function. This will enable the user to navigate between the different functionalities provided on the blockchain.
+Please open the "MACoin.ipynb" file. The entire Blockchain can be controlled via the User Interface function. This will enable the user to navigate between the different functionalities provided on the blockchain.
 To begin, the interface and blockchain must be initialized with the following code.
 ```python
 UI = UserInterface()
